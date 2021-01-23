@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpeechReco</string>
+    <string name="voice_cancel">Voice Command Cancelled</string>
+    <string name="action_share">Share</string>
+    <string name="error_msg">OOP!s some thing went wrong</string>
+    <string name="share_sub">Voice To Text</string>
+    <string name="empty_text">Text is Empty</string>
+
+</resources>
